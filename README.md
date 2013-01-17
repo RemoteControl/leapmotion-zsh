@@ -17,4 +17,4 @@ Run from the command line
 lmrj <Leap_SDK>/lib/LeapJava.jar <Application_Name>
 ```
 
-<Leap_SDK> is the path where your SDK for Leap Motion is on your computer. And <Application_Name> is the name of your main Java file. 
+*Leap_SDK* is the path where your SDK for Leap Motion is on your computer. And *Application_Name* is the name of your main Java file. 
